@@ -14,11 +14,11 @@ h1 {
   font-size: 27px;  
   text-align: center;
   margin-bottom: 5px;
-  }
+}
 p {
     padding: 15px 5px 0px 5px;
     position: relative;
-    }
+}
 .section { 
 	background-color: #1C9161;
    	border: 1px solid black;
@@ -27,7 +27,7 @@ p {
    	padding: 2px;
    	text-align: justify;
    	position: relative;
- }
+}
 span {
 	font-size: 16px;
 	width: 100px;
@@ -40,13 +40,13 @@ span {
 #clr1 {
     background-color: #9633FF;
     
-  }
+}
 #clr2 {
     background-color: #FF33C1;
-    }
+}
 #clr3 {
     background-color: #2276B4;
-  }
+}
 
 .row {
   width: 100%;
